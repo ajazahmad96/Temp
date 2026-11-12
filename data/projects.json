@@ -1,16 +1,6 @@
 {
   "projects": [
     {
-      "id": "p-haz9sljj",
-      "title": "Podcast Short",
-      "url": "https://www.youtube.com/shorts/HaZ9SLjj_Io",
-      "videoId": "HaZ9SLjj_Io",
-      "embedUrl": "https://www.youtube.com/embed/HaZ9SLjj_Io",
-      "type": "short",
-      "description": "Talking-Head Editing, Dynamic Captions, B-Roll.",
-      "thumbnail": ""
-    },
-    {
       "id": "p-ldrmvbf",
       "title": "Raw vs Edited",
       "url": "https://www.youtube.com/shorts/LdRmvbf_vw8",
