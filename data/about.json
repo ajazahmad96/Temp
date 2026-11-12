@@ -3,22 +3,49 @@
   "hero": {
     "eyebrow": "VIDEO EDITING FOR CREATORS & BRANDS",
     "greeting": "I'M",
-    "name": "AJAZ",
+    "name": "AJAZ  AHMAD",
     "title": "VIDEO EDITOR",
     "intro": "I edit videos with a focus on clean storytelling, strong pacing and visuals that keep people watching."
   },
   "stats": [
-    { "value": "15+", "label": "PROJECTS COMPLETED" },
-    { "value": "10+", "label": "HAPPY CLIENTS" },
-    { "value": "1.5+", "label": "YEARS EXPERIENCE" },
-    { "value": "100%", "label": "COMMITMENT TO QUALITY" }
+    {
+      "value": "15+",
+      "label": "PROJECTS COMPLETED"
+    },
+    {
+      "value": "10+",
+      "label": "HAPPY CLIENTS"
+    },
+    {
+      "value": "1.5+",
+      "label": "YEARS EXPERIENCE"
+    },
+    {
+      "value": "100%",
+      "label": "COMMITMENT TO QUALITY"
+    }
   ],
   "sections": {
-    "work": { "tag": "FEATURED WORK", "title": "Selected Projects" },
-    "services": { "tag": "WHAT I DO", "title": "Services I Offer" },
-    "experience": { "tag": "MY JOURNEY", "title": "Experience" },
-    "testimonials": { "tag": "CLIENTS LOVE", "title": "What Clients Say" },
-    "clients": { "tag": "TRUSTED BY", "title": "Clients I've Worked With" }
+    "work": {
+      "tag": "FEATURED WORK",
+      "title": "Selected Projects"
+    },
+    "services": {
+      "tag": "WHAT I DO",
+      "title": "Services I Offer"
+    },
+    "experience": {
+      "tag": "MY JOURNEY",
+      "title": "Experience"
+    },
+    "testimonials": {
+      "tag": "CLIENTS LOVE",
+      "title": "What Clients Say"
+    },
+    "clients": {
+      "tag": "TRUSTED BY",
+      "title": "Clients I've Worked With"
+    }
   },
   "about": {
     "tag": "ABOUT ME",
@@ -32,9 +59,20 @@
     "text": "Have a project in mind? Tell me what you're working on, and let's discuss how I can help.",
     "email": "ajazahmad.work@gmail.com",
     "whatsapp": "currently unavailable",
-    "instagram": { "url": "https://www.instagram.com/ajazedits_?igsh=NGp6Z3NreHRzZm12", "label": "@ajazedits_" },
-    "linkedin": { "url": "https://www.linkedin.com/in/ajaz-ahmad-28aa08421?utm_source=share_via&utm_content=profile&utm_medium=member_android", "label": "Ajaz Ahmad" },
-    "youtube": { "url": "https://youtube.com/@ajazeditss?si=ceQ5d5Z6VKZb5Sgr", "label": "@ajazeditss" }
+    "instagram": {
+      "url": "https://www.instagram.com/ajazedits_?igsh=NGp6Z3NreHRzZm12",
+      "label": "@ajazedits_"
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/ajaz-ahmad-28aa08421?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "label": "Ajaz Ahmad"
+    },
+    "youtube": {
+      "url": "https://youtube.com/@ajazeditss?si=ceQ5d5Z6VKZb5Sgr",
+      "label": "@ajazeditss"
+    }
   },
-  "footer": { "copyright": "© 2026 Ajaz. All rights reserved." }
+  "footer": {
+    "copyright": "© 2026 Ajaz. All rights reserved."
+  }
 }
