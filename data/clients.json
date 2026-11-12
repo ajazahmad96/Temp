@@ -1,3 +1,18 @@
 {
-  "clients": []
+  "clients": [
+    {
+      "id": "c-7bd769a3",
+      "name": "Mr.beast",
+      "info": "YouTuber",
+      "logo": "https://pin.it/4pWLpKDkk",
+      "url": "https://youtube.com/@mrbeast?si=RRCK8z_BUAV9cade"
+    },
+    {
+      "id": "c-c09829d0",
+      "name": "Avinash",
+      "info": "YouTuber",
+      "logo": "",
+      "url": ""
+    }
+  ]
 }
