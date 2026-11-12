@@ -1,3 +1,12 @@
 {
-  "experience": []
+  "experience": [
+    {
+      "id": "e-71f2d4e9",
+      "role": "Video editor",
+      "company": "Mr.beast",
+      "start": "March 2025",
+      "end": "Present",
+      "description": ""
+    }
+  ]
 }
