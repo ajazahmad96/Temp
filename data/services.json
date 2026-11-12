@@ -1,0 +1,10 @@
+{
+  "services": [
+    { "id": "s-video-editing", "icon": "fa-solid fa-scissors", "title": "Video Editing", "description": "Clean, well paced edits that keep viewers engaged." },
+    { "id": "s-color-grading", "icon": "fa-solid fa-palette", "title": "Color Grading", "description": "Polished colors that give your footage the right look." },
+    { "id": "s-motion-graphics", "icon": "fa-solid fa-star", "title": "Motion Graphics", "description": "Clean animations and graphics that add visual impact." },
+    { "id": "s-sound-design", "icon": "fa-solid fa-wave-square", "title": "Sound Design", "description": "Well timed audio and effects that enhance every cut." },
+    { "id": "s-youtube-editing", "icon": "fa-brands fa-youtube", "title": "YouTube Editing", "description": "Engaging edits built for YouTube and its audience." },
+    { "id": "s-short-form", "icon": "fa-solid fa-mobile-screen", "title": "Short Form Editing", "description": "Viral short videos edited for maximum impact and retention." }
+  ]
+}
