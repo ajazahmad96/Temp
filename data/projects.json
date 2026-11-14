@@ -19,6 +19,16 @@
       "type": "short",
       "description": "Luxury Promo • Cinematic Shots • Lifestyle",
       "thumbnail": ""
+    },
+    {
+      "id": "p-39b05e10",
+      "title": "Bialetti Perfetto Moka",
+      "url": "https://youtu.be/CvPGMh4OFFs?si=IrhbXNjGhIqPdnl0",
+      "videoId": "CvPGMh4OFFs",
+      "embedUrl": "https://www.youtube.com/embed/CvPGMh4OFFs",
+      "type": "long",
+      "description": "Product Commercial • Coffee • Cinematic",
+      "thumbnail": ""
     }
   ]
 }
