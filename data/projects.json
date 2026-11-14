@@ -29,6 +29,16 @@
       "type": "long",
       "description": "Product Commercial • Coffee • Cinematic",
       "thumbnail": ""
+    },
+    {
+      "id": "p-85826d7d",
+      "title": "The Entire History of Paris",
+      "url": "https://youtu.be/7s6JK7fUUTs?si=31gD03ynv6qvl9c-",
+      "videoId": "7s6JK7fUUTs",
+      "embedUrl": "https://www.youtube.com/embed/7s6JK7fUUTs",
+      "type": "long",
+      "description": "Historical Documentary • Cinematic Storytelling • Map Animation",
+      "thumbnail": ""
     }
   ]
 }
