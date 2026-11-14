@@ -2,17 +2,31 @@
   "clients": [
     {
       "id": "c-7bd769a3",
-      "name": "Mr.beast",
-      "info": "YouTuberjijggjedg hdhddhyd dbhdhdgd",
-      "logo": "assets/uploads/20261112-f072ebf4c8.png",
-      "url": "https://youtube.com/@mrbeast?si=RRCK8z_BUAV9cade"
+      "name": "NovaTech",
+      "info": "A technology brand focused on innovative digital products and modern solutions.",
+      "logo": "https://placehold.co/400x400/111111/D6AD55?text=N",
+      "url": "https://www.microsoft.com/"
     },
     {
       "id": "c-c09829d0",
-      "name": "Avinash",
-      "info": "YouTuber",
-      "logo": "",
-      "url": ""
+      "name": "Urban Vibe",
+      "info": "A lifestyle and fashion brand creating contemporary content for modern audiences.",
+      "logo": "https://placehold.co/400x400/111111/FFFFFF?text=UV",
+      "url": "https://www.instagram.com/"
+    },
+    {
+      "id": "c-29b68995",
+      "name": "PixelCraft",
+      "info": "A creative digital studio specializing in visual design, branding, and digital experiences.",
+      "logo": "https://placehold.co/400x400/111111/D6AD55?text=P",
+      "url": "https://www.behance.net/"
+    },
+    {
+      "id": "c-68a20b3d",
+      "name": "FitZone",
+      "info": "A fitness and wellness brand sharing workout inspiration and healthy lifestyle content.",
+      "logo": "https://placehold.co/400x400/111111/FFFFFF?text=FZ",
+      "url": "https://www.youtube.com/"
     }
   ]
 }
