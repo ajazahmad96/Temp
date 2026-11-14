@@ -1,23 +1,23 @@
 {
-  "brandName": "AJAZ",
+  "brandName": "ALEX",
   "hero": {
-    "eyebrow": "VIDEO EDITING FOR CREATORS & BRANDS",
+    "eyebrow": "VIDEO EDITOR & VISUAL STORYTELLER",
     "greeting": "I'M",
-    "name": "AJAZ  AHMAD",
+    "name": "ALEX",
     "title": "VIDEO EDITOR",
-    "intro": "I edit videos with a focus on clean storytelling, strong pacing and visuals that keep people watching."
+    "intro": "I transform raw footage into compelling visual stories through creative editing, smooth transitions, and thoughtful storytelling. Helping creators and brands turn their ideas into engaging content."
   },
   "stats": [
     {
-      "value": "15+",
+      "value": "120+",
       "label": "PROJECTS COMPLETED"
     },
     {
-      "value": "1000+",
+      "value": "35+",
       "label": "HAPPY CLIENTS"
     },
     {
-      "value": "1.5+",
+      "value": "4+",
       "label": "YEARS EXPERIENCE"
     },
     {
@@ -50,26 +50,26 @@
   "about": {
     "tag": "ABOUT ME",
     "heading": "Editor. Creator. Storyteller.",
-    "text": "I'm Ajaz, a video editor focused on clean storytelling, strong pacing and thoughtful visual details. I work with creators and brands to turn raw footage into videos that are clear, engaging and built for their audience.",
-    "signature": "Ajaz"
+    "text": "Hi, I'm Alex, a passionate video editor who believes every video has a story worth telling.\nI specialize in transforming raw footage into engaging visual experiences through creative editing, smooth transitions, motion graphics, and thoughtful storytelling.\nMy approach combines creativity with attention to detail, ensuring every project communicates its message effectively and leaves a lasting impression.\nWhether it's content for social media, YouTube, or brands, my goal is to bring ideas to life through impactful visuals.",
+    "signature": "Alex"
   },
   "contact": {
     "tag": "LET'S WORK TOGETHER",
     "heading": "Have a Project in Mind?",
-    "text": "Have a project in mind? Tell me what you're working on, and let's discuss how I can help.",
-    "email": "ajazahmad.work@gmail.com",
+    "text": "Have an idea you'd love to bring to life? Whether it's a YouTube video, social media content, or a creative brand project, I'd love to hear about it. Let's work together to create something meaningful.",
+    "email": "alex.morgan@example.com",
     "whatsapp": "currently unavailable",
     "instagram": {
-      "url": "https://www.instagram.com/ajazedits_?igsh=NGp6Z3NreHRzZm12",
-      "label": "@ajazedits_"
+      "url": "https://www.instagram.com/instagram/",
+      "label": "@alexmorgan.creates"
     },
     "linkedin": {
-      "url": "https://www.linkedin.com/in/ajaz-ahmad-28aa08421?utm_source=share_via&utm_content=profile&utm_medium=member_android",
-      "label": "Ajaz Ahmad"
+      "url": "https://www.linkedin.com/company/linkedin/",
+      "label": "Alex Morgan | Video Editor"
     },
     "youtube": {
-      "url": "https://youtube.com/@ajazeditss?si=ceQ5d5Z6VKZb5Sgr",
-      "label": "@ajazeditss"
+      "url": "https://www.youtube.com/@YouTube",
+      "label": "Alex Morgan"
     }
   },
   "footer": {
