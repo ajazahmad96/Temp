@@ -69,6 +69,16 @@
       "type": "long",
       "description": "History • Cinematic Editing • Educational",
       "thumbnail": ""
+    },
+    {
+      "id": "p-6026fe79",
+      "title": "The Entire History of Germany",
+      "url": "https://youtu.be/OBwQWIu_kMU?si=teVz4ysV_13xvZEK",
+      "videoId": "OBwQWIu_kMU",
+      "embedUrl": "https://www.youtube.com/embed/OBwQWIu_kMU",
+      "type": "long",
+      "description": "Historical Storytelling • Documentary • Visual Editing",
+      "thumbnail": ""
     }
   ]
 }
