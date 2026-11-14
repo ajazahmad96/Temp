@@ -2,19 +2,27 @@
   "experience": [
     {
       "id": "e-71f2d4e9",
-      "role": "Video editor",
-      "company": "Mr.beast",
-      "start": "March 2025",
+      "role": "Senior Video Editor",
+      "company": "Creative Studio",
+      "start": "January 2025",
       "end": "Present",
-      "description": ""
+      "description": "Leading video editing projects for digital brands and content creators. Responsible for transforming raw footage into engaging visual stories through creative editing, motion graphics, color grading, and sound design."
     },
     {
       "id": "e-d2f8357e",
-      "role": "Video editor",
-      "company": "Fox",
-      "start": "May 2022",
-      "end": "Jun 2025",
-      "description": "Vdhhdheydgvsvdbhxxdg bdhdgdcsvshdhdsbsh"
+      "role": "Freelance Video Editor",
+      "company": "Independent Projects",
+      "start": "March 2022",
+      "end": "Dec 2023",
+      "description": "Worked with creators and small businesses to produce engaging videos for YouTube and social media. Focused on storytelling, smooth transitions, audio synchronization, and visual consistency."
+    },
+    {
+      "id": "e-874cc888",
+      "role": "Junior Video Editor",
+      "company": "Motion Media Agency",
+      "start": "Jan 2020",
+      "end": "Feb 2022",
+      "description": "Assisted with video production and post-production tasks, including footage organization, basic editing, audio adjustments, and creating short promotional content for digital platforms."
     }
   ]
 }
