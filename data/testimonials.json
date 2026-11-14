@@ -2,27 +2,27 @@
   "testimonials": [
     {
       "id": "t-rohan-mehta",
-      "name": "Rohan Mehta",
-      "role": "Content Creator",
-      "text": "Ajaz understood exactly what I wanted and kept the edit clean and engaging. The final video felt polished without being over-edited."
+      "name": "NovaTech",
+      "role": "Brand & Marketing Team",
+      "text": "Alex brought our ideas to life with creative editing and excellent attention to detail. The final videos looked professional and engaging."
     },
     {
       "id": "t-arjun-malhotra",
-      "name": "Arjun Malhotra",
-      "role": "Brand Owner",
-      "text": "The editing was sharp, communication was easy, and the final result matched the direction I had in mind. I'd definitely work with Ajaz again."
+      "name": "Urban Vibe",
+      "role": "Social Media Manager",
+      "text": "Alex understood our brand's style perfectly and delivered polished, engaging content. Great creative approach!"
     },
     {
       "id": "t-ethan-brooks",
-      "name": "Ethan Brooks",
-      "role": "YouTube Creator",
-      "text": "Ajaz has a great sense of pacing and knows when to keep things simple. The edit felt natural, professional, and suited my content really well."
+      "name": "PixelCraft",
+      "role": "Creative Director",
+      "text": "Alex's creativity and eye for detail made our videos stand out. Really impressed with the editing quality."
     },
     {
       "id": "t-41339563",
-      "name": "Arman",
-      "role": "YouTube",
-      "text": "Good work"
+      "name": "FitZone",
+      "role": "Content Manager",
+      "text": "Alex created energetic videos with smooth pacing and great visuals. Exactly what our fitness content needed."
     }
   ]
 }
